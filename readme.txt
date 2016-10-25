@@ -1,0 +1,2 @@
+userInfo.properties拷贝到d盘根目录下
+
